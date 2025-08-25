@@ -1,1 +1,1 @@
-# HexPermutation
+# Permutation
